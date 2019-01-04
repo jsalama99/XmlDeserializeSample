@@ -1,0 +1,7 @@
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\bin\Debug\XmlDeserializerSample.exe.config
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\bin\Debug\XmlDeserializerSample.exe
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\bin\Debug\XmlDeserializerSample.pdb
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\obj\Debug\XmlDeserializerSample.csprojAssemblyReference.cache
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\obj\Debug\XmlDeserializerSample.csproj.CoreCompileInputs.cache
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\obj\Debug\XmlDeserializerSample.exe
+C:\Users\jsalama\Documents\Visual Studio 2017\Projects\XmlDeserializerSample\obj\Debug\XmlDeserializerSample.pdb
